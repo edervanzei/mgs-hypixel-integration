@@ -1,0 +1,1 @@
+# MetaGamerScore Hypixel Integration
